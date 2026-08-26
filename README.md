@@ -5,7 +5,8 @@
 ## 👋 About Me
 
 สวัสดีครับ ผม **Cyclone**  
-![Uploading image.png…]()
+<img width="299" height="373" alt="image" src="https://github.com/user-attachments/assets/d0d80916-931a-4ed7-8df9-94aaa50f9e4c" />
+
 
 
 ผมเป็นคนที่ชอบเรียนรู้จากการลงมือทำ โดยเฉพาะเรื่อง **คอมพิวเตอร์, การเขียนโปรแกรม, อิเล็กทรอนิกส์, เกม, ฮาร์ดแวร์ และการแก้ปัญหาทางเทคนิค**
